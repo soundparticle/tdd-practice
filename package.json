@@ -1,0 +1,23 @@
+{
+  "name": "tdd-practice",
+  "version": "1.0.0",
+  "description": "Codebase to practice Test Driven Development.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soundparticle/tdd-practice.git"
+  },
+  "author": "Antreo Pukay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soundparticle/tdd-practice/issues"
+  },
+  "homepage": "https://github.com/soundparticle/tdd-practice#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
